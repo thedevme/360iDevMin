@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Cocoa Academy</key>
+		<dict>
+			<key>Definition</key>
+			<string>A online school that teaches all things iOS.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter%201/Page1</string>
+				<key>Title</key>
+				<string>Page</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
